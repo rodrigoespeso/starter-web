@@ -10,4 +10,7 @@ Sample website with plenty of files for demos
 New edition
 
 ###CopyRight
-Testing 
+Testing
+
+### Notes
+Merging 
