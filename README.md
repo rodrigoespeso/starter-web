@@ -13,4 +13,4 @@ New edition
 Testing
 
 ### Notes
-Merging 
+Merging. Personel must be jion!
